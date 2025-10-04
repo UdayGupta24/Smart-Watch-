@@ -1,0 +1,9 @@
+../Core/Src/task_handler.c:9:6:menu_function	4
+../Core/Src/task_handler.c:58:6:process_cmd	6
+../Core/Src/task_handler.c:93:6:print_task	1
+../Core/Src/task_handler.c:103:6:led_task	7
+../Core/Src/task_handler.c:151:6:cmd_handler_function	2
+../Core/Src/task_handler.c:165:6:rtc_task	20
+../Core/Src/task_handler.c:338:5:get_number	2
+../Core/Src/task_handler.c:347:5:check_time_configurations	4
+../Core/Src/task_handler.c:358:5:check_date_configurations	5

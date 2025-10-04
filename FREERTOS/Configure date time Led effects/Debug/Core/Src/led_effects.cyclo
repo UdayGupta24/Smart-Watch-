@@ -1,0 +1,6 @@
+../Core/Src/led_effects.c:4:6:led_effect_stop	2
+../Core/Src/led_effects.c:10:6:led_effect	1
+../Core/Src/led_effects.c:15:6:led_effect1	2
+../Core/Src/led_effects.c:33:6:led_effect2	2
+../Core/Src/led_effects.c:51:6:led_effect3	2
+../Core/Src/led_effects.c:69:6:led_effect4	4

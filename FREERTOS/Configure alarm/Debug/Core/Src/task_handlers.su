@@ -1,0 +1,7 @@
+../Core/Src/task_handlers.c:8:6:menu_function	40	static
+../Core/Src/task_handlers.c:53:6:process_cmd	24	static
+../Core/Src/task_handlers.c:83:6:print_task	32	static
+../Core/Src/task_handlers.c:93:6:cmd_handler_function	24	static
+../Core/Src/task_handlers.c:106:5:check_alarm_settings	16	static
+../Core/Src/task_handlers.c:119:6:alarm_task	128	static
+../Core/Src/task_handlers.c:294:5:get_number	24	static

@@ -1,0 +1,5 @@
+../Core/Src/rtc.c:3:6:rtc_configure_alarm_a	16	static
+../Core/Src/rtc.c:21:6:rtc_configure_alarm_b	16	static
+../Core/Src/rtc.c:36:23:bcd2dec	16	static
+../Core/Src/rtc.c:40:6:show_alarm_settings_of_a	80	static
+../Core/Src/rtc.c:68:6:show_alarm_settings_of_b	80	static

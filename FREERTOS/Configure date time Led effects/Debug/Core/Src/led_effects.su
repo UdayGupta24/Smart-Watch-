@@ -1,0 +1,6 @@
+../Core/Src/led_effects.c:4:6:led_effect_stop	24	static
+../Core/Src/led_effects.c:10:6:led_effect	32	static
+../Core/Src/led_effects.c:15:6:led_effect1	8	static
+../Core/Src/led_effects.c:33:6:led_effect2	8	static
+../Core/Src/led_effects.c:51:6:led_effect3	8	static
+../Core/Src/led_effects.c:69:6:led_effect4	8	static

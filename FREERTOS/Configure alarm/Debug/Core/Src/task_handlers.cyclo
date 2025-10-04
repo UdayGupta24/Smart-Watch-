@@ -1,0 +1,7 @@
+../Core/Src/task_handlers.c:8:6:menu_function	4
+../Core/Src/task_handlers.c:53:6:process_cmd	5
+../Core/Src/task_handlers.c:83:6:print_task	1
+../Core/Src/task_handlers.c:93:6:cmd_handler_function	2
+../Core/Src/task_handlers.c:106:5:check_alarm_settings	5
+../Core/Src/task_handlers.c:119:6:alarm_task	21
+../Core/Src/task_handlers.c:294:5:get_number	2
